@@ -1,0 +1,72 @@
+.t1{
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    border-color: black;
+    background-color:rgba(150,212,211,255)
+    
+}
+
+.t2{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th, td{
+    width: 200px;
+    height: 2px;
+    border-radius: 10px; /* Adjust the border-radius for curved edges */
+    text-align: left; /* Center-align the content inside the rectangle */
+    line-height: 5px; /* Vertically center the content */
+}
+
+th{
+    text-align: center;
+}
+
+.shape{
+    width: 150px;
+    height: 85px;
+    border-color: rgb(157,205,59);
+    border-width: 10;
+    border-style: solid;
+
+}
+
+.shape1{
+    border-radius: 5px;
+}
+
+.shape2{
+    border-radius: 8px;
+}
+
+.shape3{
+    border-radius: 17px;
+}
+
+.shape4{
+    border-radius: 6px;
+}
+
+.shape5{
+    border-radius: 3px;
+}
+
+.shape6{
+    border-radius: 20px;
+}
+
+.shape7{
+    border-radius: 50%;
+}
+
+.shape8{
+    border-radius: 1px;
+}
+
+.shape9{
+    border-radius: 8px;
+    border-top-right-radius: 25%;
+    border-bottom-left-radius: 25%;
+}
